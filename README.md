@@ -1,5 +1,5 @@
 
-# 🎥 🎬🍿Movie Cards Library Project
+<h1 align="center">🎥 🎬🍿Movie Cards Library Project</h1>
 
 ## Desenvolvido por
 @PollyanaOliveira
